@@ -1,3 +1,6 @@
 print ("welcome;")
 print ("how do you do;")
 print ("hello;")
+print ("hello my dear friend;")
+print ("glad to see yuo;")
+
